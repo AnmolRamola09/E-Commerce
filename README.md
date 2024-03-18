@@ -1,4 +1,4 @@
-# FoxifyFoxify - eCommerce Application
+# FOXIFY - eCommerce Application
 
 Welcome to FoxifyFoxify, an eCommerce application developed using the powerful MERN stack (MongoDB, Express.js, React, Node.js). This project aims to provide a seamless online shopping experience with a responsive user interface and robust backend functionality.
 
